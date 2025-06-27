@@ -22,7 +22,6 @@ A full-stack Laravel MVC application with CRUD functionality, built to manage un
 
 ## Screenshots
 ![Screenshot 2025-06-27 at 19 38 19](https://github.com/user-attachments/assets/5f9ba02b-35a3-49d1-a8b8-28b2e4d36b8f)
-![Screenshot 2025-06-27 at 19 38 23](https://github.com/user-attachments/assets/08508fcc-c460-476b-8aee-42bf655c6f8f)
 ![Screenshot 2025-06-27 at 19 38 46](https://github.com/user-attachments/assets/ff0d5432-2ce4-41b7-abe4-46381fb5b46b)
 
 ## 🚧 Future Improvements

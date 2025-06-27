@@ -1,6 +1,6 @@
 # Exam Manager App
 
-A Laravel-based web application for managing university exams. Built with Laravel Breeze and Tailwind CSS.
+A full-stack Laravel MVC application with CRUD functionality, built to manage university exam records. Users can create, view, and edit exams, while admins have full control, including delete access. The project uses Laravel Breeze for authentication and Tailwind CSS for styling. Exam grades are color-coded for quick visual feedback.
 
 ## 🎯 Features
 
@@ -25,6 +25,18 @@ A Laravel-based web application for managing university exams. Built with Larave
 ![Screenshot 2025-06-27 at 19 38 23](https://github.com/user-attachments/assets/08508fcc-c460-476b-8aee-42bf655c6f8f)
 ![Screenshot 2025-06-27 at 19 38 46](https://github.com/user-attachments/assets/ff0d5432-2ce4-41b7-abe4-46381fb5b46b)
 
+## 🚧 Future Improvements
+
+- Link exam records to individual users
+- Improve responsive design
+
+
+## 🧠 What I Learned
+
+- Working with Laravel Breeze and Tailwind CSS
+- Working with MVC (Model-View-Controller)
+- Implementing authorization with Laravel policies
+- Structuring a full Laravel CRUD app
 
 ## 📦 Setup
 
